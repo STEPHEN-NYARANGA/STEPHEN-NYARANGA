@@ -4,7 +4,8 @@ Climate scientist and geophysicist. I am doing a PhD in Climate Science as a CLA
 
 My research combines satellite radar (Sentinel-1 SAR), InSAR and deep learning to map flood extent, estimate flood depth and support urban resilience in Rwanda, with a focus on Kigali and Musanze. More broadly, I am interested in putting satellite technology to work in disaster risk reduction and early warning, agriculture, energy and water resources.
 
-> "The Earth of wonders that is alive."
+> "A living Earth, full of wonders.<br>
+> A world of wonders, still alive, still changing."
 
 ### Selected repositories
 
